@@ -1,2 +1,5 @@
 # baibel
-A rapid web software development framework, supporting multi programming languages and integrating multi UI frameworks, highlighting SPA, SOA and Machine Society.
+A rapid software development framework with Web technologies;
+For Web, mobile, desktop and server;
+Supporting natural languages as programming mainstream;
+With anthropomorphic software architecture, machine government;
